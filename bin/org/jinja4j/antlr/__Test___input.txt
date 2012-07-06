@@ -1,0 +1,3 @@
+{{ user.url }}
+
+send sms I am back home to my wife when I leave work
